@@ -50,3 +50,7 @@
     * Courses: 
         + Stormnet front-end (HTML, CSS, JavaScript);
 
+### 8. Languages:
+    Russian - native;
+	Belarussian - good knowledge;
+	English B1 (Pre-Intermediate);
