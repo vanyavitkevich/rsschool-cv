@@ -9,11 +9,11 @@
 
 ### 3. About me:
 
-    ```I am 24 years old, I worked in engineer sphere as master. I am very interested in IT because i like to think mathematically and logically in some situations. I am understand the role of Front-end developer and i hope to become him. I fastly to learn new information and i open to it.
-    ```
+-    I am 24 years old, I worked in engineer sphere as master. I am very interested in IT because i like to think mathematically and logically in some situations. I am understand the role of Front-end developer and i hope to become him. I fastly to learn new information and i open to it.
+    
 ### 4. My Skills:
 
-    * Front-end:
+-    * Front-end:
         + HTML 5;
         + CSS 4 (Bootstrap, SASS/SCSS);
         + JavaScript ES7 (DOM, JSON);
@@ -42,15 +42,15 @@
     ```
 
 ### 6. Work expirience: 
-    Once upon a time I created a site of online market to my university's friend :)
+-    Once upon a time I created a site of online market to my university's friend :)
 
 ### 7. Education:
-    * University: 
+-    * University: 
         + Belarusian National Technical University (Power Engeniring: automatic system);
     * Courses: 
         + Stormnet front-end (HTML, CSS, JavaScript);
 
 ### 8. Languages:
-    Russian - native;
-	Belarussian - good knowledge;
-	English B1 (Pre-Intermediate);
+-   Russian - native;
+-	Belarussian - good knowledge;
+-	English B1 (Pre-Intermediate);
