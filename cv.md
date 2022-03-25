@@ -25,22 +25,19 @@ I am 24 years old, I worked in engineer sphere as master. I am very interested i
 
 ### 5. Code example:
 
-    ```javascript
-    
-    function copyObj(obj) {
-        let newObj = {};
+```javascript
 
-        for(let prop in obj){
-            if(typeof(obj[prop]) != 'object') {
-                newObj[prop] = obj[prop];
-            } else {
-                newObj[prop] = copyObj(obj[prop]);
-           }
-
-
-        return newObj;
-    }
-    ```
+function copyObj(obj) {
+    let newObj = {};
+    for(let prop in obj){
+        if(typeof(obj[prop]) != 'object') {
+            newObj[prop] = obj[prop];
+        } else {
+            newObj[prop] = copyObj(obj[prop]);
+       }
+    return newObj;
+}
+```
 
 ### 6. Work expirience: 
 
