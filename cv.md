@@ -25,7 +25,8 @@ I am 24 years old, I worked in engineer sphere as master. I am very interested i
 
 ### 5. Code example:
 
-    ```JavaScript
+    ```javascript
+    
     function copyObj(obj) {
         let newObj = {};
 
