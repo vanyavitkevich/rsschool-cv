@@ -8,9 +8,11 @@
     * GitHub: [vanyavitkevich](https://github.com/vanyavitkevich);
 
 ### 3. About me:
+
     ```I am 24 years old, I worked in engineer sphere as master. I am very interested in IT because i like to think mathematically and logically in some situations. I am understand the role of Front-end developer and i hope to become him. I fastly to learn new information and i open to it.
     ```
-### My Skills:
+### 4. My Skills:
+
     * Front-end:
         + HTML 5;
         + CSS 4 (Bootstrap, SASS/SCSS);
@@ -20,4 +22,22 @@
     * Other skills:
         + Photoshop CS6;
         + Figma;
+
+### 5. Code example:
+
+    ```
+        function copyObj(obj) {
+            let newObj = {};
+
+            for(let prop in obj){
+                if(typeof(obj[prop]) != 'object') {
+                    newObj[prop] = obj[prop];
+                } else {
+                    newObj[prop] = copyObj(obj[prop]);
+               }
+
+
+            return newObj;
+        }
+    ```
 
