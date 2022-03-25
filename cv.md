@@ -44,3 +44,9 @@
 ### 6. Work expirience: 
     Once upon a time I created a site of online market to my university's friend :)
 
+### 7. Education:
+    * University: 
+        + Belarusian National Technical University (Power Engeniring: automatic system);
+    * Courses: 
+        + Stormnet front-end (HTML, CSS, JavaScript);
+
