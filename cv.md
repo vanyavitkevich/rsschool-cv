@@ -25,19 +25,19 @@
 
 ### 5. Code example:
 
-    ```
-        function copyObj(obj) {
-            let newObj = {};
+    ```JavaScript
+    function copyObj(obj) {
+        let newObj = {};
 
-            for(let prop in obj){
-                if(typeof(obj[prop]) != 'object') {
-                    newObj[prop] = obj[prop];
-                } else {
-                    newObj[prop] = copyObj(obj[prop]);
-               }
+        for(let prop in obj){
+            if(typeof(obj[prop]) != 'object') {
+                newObj[prop] = obj[prop];
+            } else {
+                newObj[prop] = copyObj(obj[prop]);
+           }
 
 
-            return newObj;
-        }
+        return newObj;
+    }
     ```
 
