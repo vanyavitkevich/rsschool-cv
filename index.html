@@ -49,4 +49,24 @@
         </ul>
     </article>
 
+    <article class="main__code_expl">
+        <p class="main__code_expl-p">
+            function copyObj(obj) {
+
+                let newObj = {};
+            
+                for(let prop in obj){
+            
+                    if(typeof(obj[prop]) != 'object') {
+                        newObj[prop] = obj[prop];
+                    } else {
+                        newObj[prop] = copyObj(obj[prop]);
+                    }
+                }
+            
+                return newObj;
+            } 
+        </p>
+    </article>
+
 </section>
